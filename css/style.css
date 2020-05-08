@@ -59,7 +59,7 @@ p {
   -webkit-transition: all 1s ease-in-out;
   transition: all 1s ease-in-out;
   z-index: 980;
-  right: 300px;
+  right: 100px;
   top: 140px;
 }
 .mountain-img{
